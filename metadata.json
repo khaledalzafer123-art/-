@@ -1,0 +1,5 @@
+{
+  "name": "Moghamarat Al-Huroof (Alphabet Adventures)",
+  "description": "An interactive Arabic literacy app designed for students with learning difficulties. It features gamified learning for letter sounds (Harakaat), letter forms (positions), and handwriting practice using Gemini TTS for audio reinforcement.",
+  "requestFramePermissions": []
+}
